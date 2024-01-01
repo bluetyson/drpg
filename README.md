@@ -21,7 +21,7 @@ drpg --help  # or python -m drpg --help
 3. Now just sit, relax and wait. Initial synchronization may take a while so
    why don't you grab a cup of tea or whatever your favourite beverage is. On
    consecutive runs the script will download only new and changed files which
-   will be a way faster.
+   will be way faster.
 
 ## Compatibility
 
